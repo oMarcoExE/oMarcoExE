@@ -5,6 +5,6 @@
 Seja bem Welcome ao meu READ ME, aqui ficará meus repositórios
 
 
-## Parte dois
+## Objetivos
 
-aa11
+Me especializar na linguagem python
