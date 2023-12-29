@@ -2,8 +2,7 @@
 
 ## Bem-Vindo - Apresentação
 
-Seja bem Welcome ao meu READ ME, aqui ficará meus repositórios
-
+Olá, aqui ficará meus repositórios
 
 ## Objetivos
 
