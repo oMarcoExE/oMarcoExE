@@ -1,9 +1,10 @@
-# Marco Antonio
+# Marco Antonio / MarcoExE
 
-## Bem-Vindo - Apresentação
+## Linguagens
+- Python
+- c++
+- SQL
 
-Olá, aqui ficará meus repositórios
-
-## Objetivos
-
-Me especializar na linguagem python
+#### Idomas
+- Português
+- Inglês
